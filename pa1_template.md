@@ -160,3 +160,4 @@ ggplot(averages, aes(interval, steps)) + geom_line() + facet_grid(day ~ .) +
 ```
 
 ![image-4](https://user-images.githubusercontent.com/120176389/226707667-9373462b-87b6-4f31-b006-85f1fb55a922.png)
+
